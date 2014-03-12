@@ -16,10 +16,20 @@ MAX_GRAVITY = 1
 
 class MainWindow(Widget):
     player = ObjectProperty(None)
+    status = StringProperty()
 
     def update(self, y):
         print 'hey'
         # self.player.source = 'spaceman-new.png'
+
+    def on_touch_down(self, touch):
+        print touch.shape
+        self.status = 'Single Touch'
+        if touch.is_double_tap:
+            self.status = 'Double Touch'
+
+    def on_touch_up(self, touch):
+        self.status = 'No Touch'
 
 
 class Player(Widget):
