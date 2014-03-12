@@ -1,0 +1,18 @@
+#:kivy 1.7.0
+
+
+<MainWindow>:
+    player: player
+
+    Player:
+        size: self.parent.size[0]/25, self.parent.size[1]/15
+        x: 10
+        y: 100
+        id: player
+
+<Player>:
+    canvas:
+        Rectangle:
+            pos: self.pos
+            size: self.parent.size[0] // 10, self.parent.size[1] // 10
+            source: self.source

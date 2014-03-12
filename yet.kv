@@ -1,0 +1,45 @@
+#:kivy 1.7.0
+
+
+<MainWindow>:
+    player: player
+
+    Label:
+        text: str(self.parent.player.lives)
+    Label:
+        text: str(self.parent.player.coins)
+        x: 100
+    Label:
+        text: str(self.parent.player.immortal)
+        x: 200
+
+    Player:
+        # size: self.parent.size[0]/25, self.parent.size[1]/15
+        x: 10
+        y: 100
+        id: player
+
+
+<Player>:
+    canvas:
+        Rectangle:
+            pos: self.pos
+            # size: 100, 90
+            source: 'monster_5_2_1.png'
+
+
+<Obstacle>:
+    canvas:
+        Color: 
+            rgb: 1, 0, 0
+        Ellipse:
+            pos: self.pos
+            size: self.size
+
+<Coin>:
+    canvas:
+        Color: 
+            rgb: 1, 1, 0
+        Ellipse:
+            pos: self.pos
+            size: self.size
