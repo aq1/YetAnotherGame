@@ -1,0 +1,1028 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"label",
+				"labelBg	statement"
+			],
+			[
+				"lamb",
+				"lambdas	statement"
+			],
+			[
+				"lam",
+				"lambdas	statement"
+			],
+			[
+				"temp",
+				"template_name"
+			],
+			[
+				"selec",
+				"selectedChoice	statement"
+			],
+			[
+				"poll",
+				"pollID	param"
+			],
+			[
+				"proce",
+				"proceed_to_main_window	function"
+			],
+			[
+				"proc",
+				"proceed_to_main_window	function"
+			],
+			[
+				"get_",
+				"get_object_or_404	import"
+			],
+			[
+				"get",
+				"get_object_or_404	function"
+			],
+			[
+				"req",
+				"request	param"
+			],
+			[
+				"colli",
+				"collide_point	function"
+			],
+			[
+				"open",
+				"open_file_with_resistors	function"
+			],
+			[
+				"add",
+				"add_widget	function"
+			],
+			[
+				"ope",
+				"open_file_with_resistors	function"
+			],
+			[
+				"res",
+				"resistorsFile	statement"
+			],
+			[
+				"rec",
+				"rectangleHeight	statement"
+			],
+			[
+				"but",
+				"button	statement"
+			],
+			[
+				"bu",
+				"button	import"
+			],
+			[
+				"heig",
+				"heightLabel	statement"
+			],
+			[
+				"Cho",
+				"ChoiceInline	class"
+			],
+			[
+				"Date",
+				"DateTimeField	class"
+			],
+			[
+				"Sign",
+				"SignUpForm	class"
+			],
+			[
+				"rende",
+				"render_to_response	import"
+			],
+			[
+				"Si",
+				"SignUpAdmin	class"
+			],
+			[
+				"sma",
+				"smart_unicode	statement"
+			],
+			[
+				"tem",
+				"tempB	statement"
+			],
+			[
+				"te",
+				"tempB	statement"
+			],
+			[
+				"fa",
+				"factorial	function"
+			],
+			[
+				"un",
+				"unschedule_all	function"
+			],
+			[
+				"ob",
+				"obstacles"
+			],
+			[
+				"remo",
+				"remove_widget"
+			],
+			[
+				"coo",
+				"coord	forflow"
+			],
+			[
+				"ch",
+				"children	statement"
+			],
+			[
+				"objec",
+				"objectType	param"
+			],
+			[
+				"object",
+				"objectType"
+			],
+			[
+				"BI",
+				"BEZIER_ACCURACY	statement"
+			],
+			[
+				"obsta",
+				"obstacle"
+			],
+			[
+				"genetr",
+				"generated"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"chi",
+				"childrenSlice	statement"
+			],
+			[
+				"Ga",
+				"GAME_SPEED	statement"
+			],
+			[
+				"GENE",
+				"generate_obstacles	function"
+			],
+			[
+				"coor",
+				"coords	statement"
+			],
+			[
+				"po",
+				"points"
+			],
+			[
+				"genera",
+				"generate_coins	function"
+			],
+			[
+				"Wi",
+				"Window	import"
+			],
+			[
+				"WI",
+				"Window	import"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"area",
+				"areas	statement"
+			],
+			[
+				"w",
+				"width	statement"
+			],
+			[
+				"sche",
+				"schedule_once"
+			],
+			[
+				"gene",
+				"generate_obstacles	function"
+			],
+			[
+				"ad",
+				"abdomenBody	statement"
+			],
+			[
+				"Ke",
+				"KeyError	class"
+			],
+			[
+				"ab",
+				"abdomen	statement"
+			],
+			[
+				"wra",
+				"wrap_conclusion"
+			],
+			[
+				"abdo",
+				"abdomenConc	statement"
+			],
+			[
+				"repo",
+				"reports	statement"
+			],
+			[
+				"wrap_",
+				"wrap_conclusion"
+			],
+			[
+				"abd",
+				"abdomenConc	statement"
+			],
+			[
+				"orga",
+				"organ	forflow"
+			],
+			[
+				"out",
+				"output	statement"
+			],
+			[
+				"templ",
+				"templateName	statement"
+			],
+			[
+				"sele",
+				"selectMenuNames	statement"
+			],
+			[
+				"rtf",
+				"rtfHead	statement"
+			],
+			[
+				"doct",
+				"doct	statement"
+			],
+			[
+				"pa",
+				"pages	statement"
+			],
+			[
+				"file",
+				"fileContent"
+			],
+			[
+				"pat",
+				"path	statement"
+			],
+			[
+				"pick",
+				"pickBeg	statement"
+			],
+			[
+				"bi",
+				"begining"
+			],
+			[
+				"path",
+				"pathList	statement"
+			],
+			[
+				"if",
+				"if	keyword"
+			],
+			[
+				"is",
+				"isdir	function"
+			],
+			[
+				"Un",
+				"UnicodeDecodeError	class"
+			],
+			[
+				"pi",
+				"pickFile	statement"
+			],
+			[
+				"pcik",
+				"pickle"
+			],
+			[
+				"spl",
+				"splitext	import"
+			],
+			[
+				"pata",
+				"patientData	statement"
+			],
+			[
+				"Bu",
+				"Button-1"
+			],
+			[
+				"Err",
+				"errorText	statement"
+			],
+			[
+				"error",
+				"errorLabel"
+			],
+			[
+				"da",
+				"dataEntered	statement"
+			],
+			[
+				"labe",
+				"labelNames	statement"
+			],
+			[
+				"data",
+				"data_entered	function"
+			],
+			[
+				"ico",
+				"iconImg	statement"
+			],
+			[
+				"curr",
+				"currentOrganData"
+			],
+			[
+				"or",
+				"OrganData	class"
+			],
+			[
+				"pati",
+				"patientData	statement"
+			],
+			[
+				"organ",
+				"OrganData"
+			],
+			[
+				"no",
+				"None	statement"
+			],
+			[
+				"main",
+				"mainloop"
+			],
+			[
+				"var",
+				"variables	import"
+			],
+			[
+				"Eas",
+				"EasyString	class"
+			],
+			[
+				"M",
+				"MyVar	class"
+			],
+			[
+				"as",
+				"assert	keyword"
+			],
+			[
+				"Doub",
+				"DoubleVar"
+			],
+			[
+				"doc",
+				"doctor	statement"
+			],
+			[
+				"do",
+				"doctor	statement"
+			],
+			[
+				"red",
+				"redBg	statement"
+			],
+			[
+				"clea",
+				"clear_all_data"
+			],
+			[
+				"cu",
+				"currentOrganData	statement"
+			],
+			[
+				"gr",
+				"gridOptions	statement"
+			],
+			[
+				"exc",
+				"exception_decorator"
+			],
+			[
+				"ex",
+				"exception_decorator	function"
+			],
+			[
+				"find",
+				"find_prefixes	function"
+			],
+			[
+				"wor",
+				"word_score	function"
+			],
+			[
+				"ac",
+				"actions"
+			],
+			[
+				"lo",
+				"log10	function"
+			],
+			[
+				"fro",
+				"frontier	statement"
+			],
+			[
+				"fr",
+				"frontier	statement"
+			],
+			[
+				"pr",
+				"print	keyword"
+			],
+			[
+				"p",
+				"pow	function"
+			],
+			[
+				"m",
+				"mu	statement"
+			],
+			[
+				"la",
+				"lambd"
+			],
+			[
+				"fi",
+				"fileContent"
+			],
+			[
+				"head",
+				"headerFD	statement"
+			],
+			[
+				"hea",
+				"headerFD	statement"
+			],
+			[
+				"br",
+				"bridge_problem	function"
+			],
+			[
+				"from",
+				"fromHereToThere	statement"
+			],
+			[
+				"fina",
+				"finalState	statement"
+			],
+			[
+				"iter",
+				"itertools	import"
+			],
+			[
+				"coi",
+				"coin"
+			],
+			[
+				"up",
+				"update	function"
+			],
+			[
+				"fl",
+				"FlyingObjects	class"
+			],
+			[
+				"ge",
+				"generate_obstacles	function"
+			],
+			[
+				"coin",
+				"coins	statement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/python3.sublime-build",
+	"command_palette":
+	{
+		"height": 348.0,
+		"selected_items":
+		[
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Con",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/aq1/Documents/HospitalHelper/colors_and_options.py",
+		"/home/aq1/Documents/HospitalHelper/logic_classes.py",
+		"/home/aq1/Documents/HospitalHelper/main.py",
+		"/home/aq1/Documents/HospitalHelper/HospitalHelper.sublime-project",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/markup/markdown_editor.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/qcommons/qthreadutils.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/style_and_theme/cocoa_textured_window.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/style_and_theme/css_style.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/style_and_theme/disable_highlight.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/style_and_theme/font.py",
+		"/home/aq1/Documents/Pr/Analysis/5.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/qt-tools/qt-designer/main.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/resource_compiler/foo.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/demo_oop_tpl.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/hello.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/i18n/show_full_width_form_punctuation.py",
+		"/home/aq1/Documents/Pr/kivy/Scheme application/main.py",
+		"/home/aq1/Documents/Pr/kivy/Scheme application/scheme.kv",
+		"/home/aq1/Documents/Pr/kivy/YetAnotherGame/main.py",
+		"/home/aq1/Documents/Pr/django/mysite/polls/templates/polls/index.html",
+		"/home/aq1/Documents/Pr/django/mysite/polls/views.py",
+		"/home/aq1/Documents/Pr/n.py",
+		"/home/aq1/Documents/Pr/django/mysite/polls/templates/polls/detail.html",
+		"/home/aq1/Documents/Pr/django/mysite/polls/admin.py",
+		"/home/aq1/Documents/Pr/django/mysite/polls/models.py",
+		"/home/aq1/Documents/Pr/django/mysite/polls/urls.py",
+		"/home/aq1/Documents/HospitalHelper/templates/Почки/ХПН.txt",
+		"/home/aq1/Documents/HospitalHelper/templates/Почки/Норма.txt",
+		"/home/aq1/Documents/HospitalHelper/templates/Почки/Нефроптоз.txt",
+		"/home/aq1/Documents/HospitalHelper/templates/Почки/МКБ.txt",
+		"/home/aq1/Documents/Pr/txt_to_pickle.py",
+		"/home/aq1/Documents/HospitalHelper/templates/Почки/Гидрокаликоз.txt",
+		"/home/aq1/Documents/HospitalHelper/reports_assembler.py",
+		"/home/aq1/Documents/HospitalHelper/template_creator.py",
+		"/home/aq1/Documents/Pr/django/mysite/mysite/urls.py",
+		"/home/aq1/Documents/Pr/django/mysite/mysite/settings.py",
+		"/home/aq1/Documents/Pr/django/mysite/manage.py",
+		"/home/aq1/Documents/Pr/kivy/YetAnotherGame/yet.kv",
+		"/home/aq1/Documents/Pr/kivy/Scheme application/resistors.txt",
+		"/home/aq1/Documents/Pr/kivy-examples/tutorials/pong/pong.kv",
+		"/home/aq1/Documents/Pr/kivy-examples/tutorials/pong/main.py",
+		"/home/aq1/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/aq1/Documents/Pr/django/mysite/templates/admin/base_site.html",
+		"/home/aq1/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/aq1/Documents/Pr/django/mysite/polls/tests.py",
+		"/home/aq1/Documents/Pr/django/ecommerce/static/templates/signup.html",
+		"/home/aq1/Documents/Pr/django/ecommerce/mvp_landing/mvp_landing/settings.py",
+		"/home/aq1/Documents/Pr/django/ecommerce/static/templates/base.html",
+		"/home/aq1/Documents/Pr/django/ecommerce/mvp_landing/signups/forms.py",
+		"/home/aq1/Documents/Pr/django/ecommerce/mvp_landing/signups/admin.py",
+		"/home/aq1/Documents/Pr/django/ecommerce/mvp_landing/signups/views.py",
+		"/home/aq1/Documents/Pr/django/ecommerce/mvp_landing/mvp_landing/urls.py",
+		"/home/aq1/Documents/Pr/django/ecommerce/mvp_landing/signups/models.py",
+		"/home/aq1/Documents/Pr/django/project_0/project_0/settings.py",
+		"/home/aq1/Documents/Pr/django/project_0/manage.py",
+		"/home/aq1/Documents/HospitalHelper/out.txt",
+		"/home/aq1/Documents/Pr/Analysis/2-3-4.py",
+		"/home/aq1/Documents/Pr/Analysis/1.py",
+		"/home/aq1/Documents/Pr/django/project_0/views.py",
+		"/home/aq1/Documents/Pr/django/project_0/tests.py",
+		"/home/aq1/Documents/Pr/django/project_0/models.py",
+		"/home/aq1/Documents/Pr/django/project_0/__init__.py",
+		"/home/aq1/Downloads/plot.py",
+		"/home/aq1/Downloads/plot(1).py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/layout/vertically_layout.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/layout/spacer_Item.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/layout/README.txt",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/layout/layout_in_nest.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/layout/layout_in_grid.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/layout/layout_in_form.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/layout/auto_adjust_size_to_fit_img.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/layout/layout_in_box_with_attr_stretch.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/layout/central_widget_in_main_win.py",
+		"/home/aq1/Documents/Pr/kivy/YetAnotherGame/project.todo",
+		"/home/aq1/.config/sublime-text-3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/home/aq1/Documents/Pr/kivy/draft.py",
+		"/home/aq1/Documents/Pr/kivy/bezier/main.py",
+		"/home/aq1/Documents/Pr/kivy/YetAnotherGame/Draft/my.kv",
+		"/home/aq1/Documents/Pr/kivy/YetAnotherGame/Draft/draft.py",
+		"/home/aq1/Documents/Pr/kivy/YetAnotherGame/draft.kv",
+		"/home/aq1/Documents/Pr/kivy/YetAnotherGame/draft.py",
+		"/home/aq1/Documents/Pr/kivy-examples/widgets/sequenced_images/main.py",
+		"/home/aq1/Documents/Pr/kivy-examples/widgets/image_mipmap.py",
+		"/home/aq1/Documents/Pr/kivy-examples/widgets/asyncimage.py",
+		"/home/aq1/Documents/Pr/kivy/YetAnotherGame/android.txt",
+		"/home/aq1/Documents/start.sh",
+		"/media/KINGSTON/HospitalHelper/main.py",
+		"/home/aq1/Documents/HospitalHelper/templates/Сердце/ГЛЖ ДД.txt",
+		"/home/aq1/Documents/HospitalHelper/templates/Сердце/ДД 1.txt",
+		"/home/aq1/Documents/HospitalHelper/templates/Сердце/Ревматизм.txt",
+		"/home/aq1/Documents/HospitalHelper/templates/Сердце/Норма, ЛХ, ПМК.txt",
+		"/home/aq1/Documents/HospitalHelper/templates/Сердце/ИБС.txt",
+		"/home/aq1/Documents/HospitalHelper/templates/Сердце/Мерц аритмия.txt",
+		"/home/aq1/Documents/HospitalHelper/templates/Сердце/Норма.txt",
+		"/home/aq1/Documents/HospitalHelper/templates/header.txt",
+		"/home/aq1/Documents/HospitalHelper/reports/2014/02.17/23_3._2.rtf",
+		"/home/aq1/Documents/HospitalHelper/templates/rtf_head.txt",
+		"/home/aq1/Documents/HospitalHelper/reports/2014/03.02/Проверка_П._П.rtf",
+		"/home/aq1/Documents/HospitalHelper/reports/2014/02.15/Проверка_П._П.rtf",
+		"/home/aq1/Documents/HospitalHelper/templates/doctor_and_date.pickle",
+		"/home/aq1/Documents/HospitalHelper/templates/doctor_and_date.txt",
+		"/home/aq1/Documents/HospitalHelper/templates/Поджелудочная/Норма.txt",
+		"/home/aq1/Downloads/HospitalHelper-master/templates/Сердце/ДД 1.txt",
+		"/home/aq1/Documents/Pr/HospitalHelper/templates/Сердце/ГЛЖ ДД.txt",
+		"/home/aq1/Documents/Pr/HospitalHelper/project.TODO",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/selected_articles/diff_qstr_qvar_basestring.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/scripts/detect_env_for_report_bug.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/study_cases/games/tetris.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/windows/switching_multiple wins_in_im.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/windows/auto_config_geo_for_multiple_wins_app.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/windows/auto_save_win_geometry.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/windows/auto_set_secondary_window_geometry.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/windows/bounce_app_icon.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/windows/collect_data_for_analysing_user_behaves.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/windows/custom_window_icon.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/windows/custom_win_flags.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/windows/notify_primary_win_while_sheet_win_has_closed.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/demo_simple_tpl.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/interactive/shortcut/qshortcut.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/interactive/listening_key/listen_left_click_on_label.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/interactive/listening_key/listen_key.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/interactive/action/qaction.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/custom_widgets/im_sign_in_window.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/custom_widgets/badge_button.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/common_widgets/calendar.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/common_widgets/slider.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/common_widgets/tab.py",
+		"/home/aq1/Documents/Pr/Enjoy-Qt-Python-Binding/common_widgets/tray/tray.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"2",
+			"0",
+			"4",
+			"3",
+			"2",
+			"1",
+			"label",
+			"_",
+			"math.",
+			"_",
+			"math.factorial",
+			"screenHeight",
+			"scale",
+			"ACCURACY",
+			"accuracy",
+			"self.bezier",
+			"print",
+			"GAME_SPEED",
+			"get_objects_coords",
+			"print",
+			"player.siz",
+			"take_immortality",
+			"get_immortality",
+			"generate_obstacles",
+			"objects",
+			"self.reports",
+			"out.wr",
+			"out.write",
+			"{",
+			"\\n+",
+			"\\+",
+			"pkl",
+			"errorLabel",
+			"#!/",
+			"functionType",
+			"functionNumber",
+			"currentDirectory",
+			"clear_all_",
+			"EasyVar",
+			"MyVar",
+			"redLabel",
+			"root.",
+			"os.",
+			"\\\\м",
+			"\\\\u\\d*\\?",
+			"\\\\par\\n",
+			"  ",
+			"\\s\\s",
+			"%(.*?)f",
+			"%(.*?)s",
+			"\\\\par",
+			"\\par",
+			"\\\\par",
+			"\\par",
+			"\\\\par",
+			"#.*\\n",
+			"\\\\par",
+			"\\\\u\\d\\d\\d\\d?",
+			"\\u\\d+\\?",
+			"pickle",
+			"decrease_life",
+			"time",
+			"MAX_SPEED",
+			"accuracy",
+			"random_line",
+			"MyPaintWidget",
+			"first-last",
+			"\\n",
+			" ",
+			"none",
+			"table",
+			"\\n+",
+			"\\n.*\\.flac",
+			"\\n+",
+			"\\n.*\\.jpg",
+			"/",
+			"icon",
+			"with ",
+			"#.*\\n",
+			"call",
+			"style",
+			"print(",
+			"print",
+			"AppStyle",
+			"os.",
+			"\\par",
+			"\\\\par",
+			"\\par",
+			"par",
+			"\\n",
+			"args",
+			"radiob",
+			"print(",
+			"radio",
+			"patientKeys",
+			"organNames",
+			"organKeys",
+			"        \n",
+			"\\par\\par",
+			"\\\\",
+			"par",
+			"\\n",
+			"pathReportFolder",
+			"get_path_to_patient_file",
+			"Проверка",
+			"self.organsData",
+			"organsData",
+			"\\b'",
+			"'",
+			"Toplevel",
+			"test",
+			"call_report_assembler",
+			"call_the_text_creator",
+			"left",
+			"OrgansData",
+			"MyStyle",
+			"MyApp",
+			"pass",
+			")",
+			"(",
+			"cao.names",
+			"www.cwi.nl",
+			"3",
+			"print",
+			")`\n",
+			"f",
+			"Label",
+			"size_hint_x"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"40",
+			"30",
+			"20",
+			"10",
+			"",
+			"factorial",
+			"factor",
+			"screenHeight",
+			"PRECISION",
+			"precision",
+			"bezier",
+			"self.gameSpeed",
+			"get_coins_coords",
+			"become_mortal",
+			"become_immortal",
+			"get_objects_coords",
+			"\\n",
+			"",
+			"pickle",
+			"functionType",
+			"currentDir",
+			"EasyDouble",
+			"EasyVar",
+			"\\\\\\\\м",
+			"",
+			"\\\\par",
+			" ",
+			"\\s",
+			"",
+			"\\\\par\\n",
+			"\\par\\n",
+			"\\\\par\\n",
+			"\\par\\n",
+			"\\n",
+			"",
+			"\\n",
+			"\\\\par\\n",
+			"\\par\\n",
+			"a",
+			"take_a_life",
+			"timing",
+			"PLAYER_SPEED",
+			"ACCURACY",
+			"random_points",
+			"Drawer",
+			"last-first",
+			"",
+			"\\n",
+			"tStyle",
+			"TemplateAppStyle",
+			"\\n",
+			"\\\\n\\\\par",
+			"\\n\\par",
+			"\\par",
+			"cao.patientKeys",
+			"cao.selectMenuNames",
+			"cao.organKeys",
+			"\\par",
+			"\\",
+			"\\par",
+			"pathToReportFolder",
+			"get_path_to_save_folder",
+			"'Проверка'",
+			"self.organsInfo",
+			"organsInfo",
+			")s'",
+			"'%(",
+			"call_reports_assembler",
+			"call_report_assembler",
+			"OrganData",
+			"AppStyle",
+			"App",
+			"return",
+			"]",
+			"[",
+			"cao.organAttributes",
+			"www.2ch.hk",
+			"s",
+			"NewLabel",
+			"",
+			"self.errorValue"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 153.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "YetAnotherGame.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/HospitalHelper/HospitalHelper.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

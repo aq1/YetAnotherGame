@@ -14,27 +14,39 @@
         x: 200
 
     Player:
-        # size: self.parent.size[0]/25, self.parent.size[1]/15
         x: 10
         y: 100
         id: player
+        pos: self.parent.width * 0.05, self.parent.height * 0.2
+        size: self.parent.size[1] // 14, self.parent.size[1] // 10
 
 
 <Player>:
+    offset: self.parent.size[1] // 7
     canvas:
         Rectangle:
             pos: self.pos
-            # size: 100, 90
-            source: 'monster_5_2_1.png'
+            # size: self.parent.size[1] // 7, self.parent.size[1] // 7
+            size: self.size
+        Rectangle:
+            pos: self.pos[0] - self.offset // 2, self.pos[1]
+            size: self.offset, self.offset
+            source: 'Art/monster_5_2_1.png'
 
 
 <Obstacle>:
+    size: 0, 0
+    # factor: self.parent.size[1]
     canvas:
         Color: 
             rgb: 1, 0, 0
-        Ellipse:
-            pos: self.pos
-            size: self.size
+        Line:
+            points: self.pos[0], self.pos[1], self.pos[0] + self.factor, self.pos[1], self.pos[0] + self.factor//2, self.pos[1] - self.factor//3
+            # size: self.size
+            close: True
+        # Rectangle:
+        #     pos: self.pos
+        #     size: self.size
 
 <Coin>:
     canvas:

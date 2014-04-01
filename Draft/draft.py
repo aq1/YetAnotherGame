@@ -40,9 +40,9 @@ class DraftApp(App):
 
     def build(self):
         m = MainWindow()
-        s = Image(source='im.zip', anim_delay=0.2, mipmap=True)
-        s.size = 300, 300
-        m.add_widget(s)
+        # s = Image(source='im.zip', anim_delay=0.2, mipmap=True)
+        # s.size = 300, 300
+        # m.add_widget(s)
         Clock.schedule_interval(m.update, 2)
         return m
 
